@@ -1,0 +1,53 @@
+
+body{
+	width: 100%;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	background-image: url("images/montgomery-tx.jpg");
+
+
+}
+
+.weather-display{
+	max-width: 500px;
+	margin: 10px auto;
+	background-color: rgba(255,255,255,0.7);
+	padding: 20px 0;
+	
+}
+
+.weather-displayday{
+	display: inline-block;
+	max-width: 400px;
+	margin: 10px auto;
+	background-color: rgba(255,255,255,0.7);
+	padding: 20px 5px;
+	
+}
+
+h1{
+	text-align: center;
+	font-size: 4em;
+	color: #fff;
+	background-color: rgba(0,0,255,0.5);
+
+}
+
+img{
+	background-color: #bbb;
+}
+h2{
+	font-weight: 20;
+	font-size: 1.5em;
+	color: blue;
+}
+
+h2 span{
+	font-weight: 5;
+	font-size: 1em;
+}
+
+.description{
+	color: #000;
+}
